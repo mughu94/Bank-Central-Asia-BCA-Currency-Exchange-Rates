@@ -1,6 +1,9 @@
 # Bank-Central-Asia-BCA-Currency-Exchange-Rates
-Bank Central Asia Currency Exchange Rates , auto update in once per 5 minutes
+Bank Central Asia Currency Exchange Rates , auto update in once per 1 minutes
 
+# Screenshot
+
+![Screenshot_16](https://github.com/user-attachments/assets/ccb9d95b-f9cd-49e2-b89b-5b29efc98941)
 
 # Currency Exchange Rates
 
