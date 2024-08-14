@@ -16,7 +16,7 @@ This project provides a web interface to display and track currency exchange rat
 
 ## Files
 
-- `index.php`: Contains both PHP and HTML code for fetching and displaying currency exchange rates.
+- `bca.php`: Contains both PHP and HTML code for fetching and displaying currency exchange rates.
 - `history.json`: Stores historical exchange rates data for comparison purposes.
 
 ## Setup
