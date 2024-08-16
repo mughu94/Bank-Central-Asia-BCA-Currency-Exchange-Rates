@@ -79,4 +79,4 @@ This project provides a web interface to display and track currency exchange rat
 
 ## Contact
 
-For any issues or questions, please contact [Your Name](mailto:contak@mughu.biz.id).
+For any issues or questions, please contact [MUGHU](mailto:kontak@mughu.biz.id).
